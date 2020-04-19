@@ -26,6 +26,7 @@ https://cdn.jsdelivr.net/gh/Scaleya/trojanqt5/
 Android：
 https://cdn.jsdelivr.net/gh/Scaleya/igniter/
 
+https://cdn.jsdelivr.net/gh/Scaleya/igniter@master/app-release.apk/
 
 iOS：小火箭
 
